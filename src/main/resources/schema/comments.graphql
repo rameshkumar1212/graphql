@@ -1,0 +1,6 @@
+type comments {
+ commentId: Int
+ postId: Int
+ userId: Int
+ content: String
+}
